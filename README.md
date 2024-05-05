@@ -1,7 +1,6 @@
-<p align="center"><a href="https://github.com/Floro-Teamo/Salvia-Virtualization-Protection-Public/" target="_blank" rel="noopener noreferrer"><img width="500" src="https://raw.githubusercontent.com/Floro-Teamo/Salvia-Virtualization-Protection-Public/main/logo.webp" alt="Salvia® Advanced JVM Virtualization Protection logo"></a></p>
+<p align="center"><a href="https://github.com/Floro-Teamo/Salvia-Virtualization-Protection-Public/" target="_blank" rel="noopener noreferrer"><img width="300" src="https://raw.githubusercontent.com/Floro-Teamo/Salvia-Virtualization-Protection-Public/main/logo.webp" alt="Salvia® Advanced JVM Virtualization Protection logo"></a></p>
 
 # Salvia-Virtualization-Protection
-
 Salvia® Advanced JVM Virtualization Protection是一款结合了落地实践与深度赋能的保护软件，采用先进的虚拟化技术，以创新的方式对JVM Bytecode进行重责任代码虚拟化保护，为您的Java Bytecode提供全方位的安全防护。
 
 我们的产品不仅仅是一种简单的防护工具，更是一个共创共建的平台，通过分发先进的虚拟化技术，为您的应用程序提供可靠的支撑与保障。无论是在技术手段上，还是在体感用户体验上，Salvia® JVM Virtualization Protection都能为您带来前所未有的安全感与保障。
